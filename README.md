@@ -1,2 +1,2 @@
-# Image_Compression
+# Image Compression
 Web app for Image Compression using DCT Algorithm
