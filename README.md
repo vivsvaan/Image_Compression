@@ -8,4 +8,7 @@ Web app for Image Compression using DCT Algorithm
 
 ### Output
 - Rebuilds the image after performing the steps.
-
+### Algorithm
+- Split the image into FxF pixel blocks
+- for each block
+-     applies the
