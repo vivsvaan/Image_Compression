@@ -11,4 +11,8 @@ Web app for Image Compression using DCT Algorithm
 ### Algorithm
 - Split the image into FxF pixel blocks
 - for each block
-    - applies the
+    - applies the DCT2
+    - filters frequencies where row+col >= D
+    - applies the inverse DCT2
+    - normalizes obtained values
+- rebuilds the image as output
